@@ -143,6 +143,14 @@ import heroImg from "./assets/hero.jpg";
 
 ---
 
+## Screenshots
+
+<img width="1352" height="3738" alt="image" src="https://github.com/user-attachments/assets/61958a7e-a560-4c1e-aa51-793e6b0940a4" />
+
+---
+
+---
+
 ## 🧪 Linting (optional)
 If you want ESlint:
 ```bash
