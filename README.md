@@ -160,4 +160,6 @@ npm i -D eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-reac
 ---
 
 ## 📦 License
-MIT © Your Name
+© Rakibul Hoque
+Feel free to customize and use it.
+
